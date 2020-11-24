@@ -1,0 +1,6 @@
+Hi, this is a 
+temporary file used to implement 
+the A-S algorithm. 
+Let's see how it goes...
+
+!@#$%^&*()<>:"{}[];',./|\1234567890_+-=~`"
